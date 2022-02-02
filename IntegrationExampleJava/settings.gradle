@@ -1,0 +1,2 @@
+include ':trxhosts'
+include ':app', ':trxhosts'

@@ -1,0 +1,2 @@
+include ':trxhostsSDK'
+include ':app', ':trxhosts'
